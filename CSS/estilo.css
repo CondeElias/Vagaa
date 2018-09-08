@@ -1,0 +1,59 @@
+.absolute {
+ position: absolute;
+ right: 400px;
+ width: 700px;
+ height: 300px;   
+}
+label {display:block;}
+input {width: 100%;} 
+input,  button {padding: 10px;}
+button {
+  position: absolute;   
+  top: 0; 
+  left: 0;
+}
+input {padding-left: 50px;}
+
+.corpo{
+  width: 650px;
+  margin: auto;
+}
+hr{
+ color: #b3b3b3;
+}
+h2{
+  color: #666666;
+  font-family: Merriweather;
+}
+p{
+  color: #666666;
+  font-family: Merriweather;
+}
+@font-face {
+  font-family: Merriweather;
+  src: url(fonte/Merriweather.ttf);
+}
+img{
+  float:left;
+  margin:0 15px 10px 0;
+}
+.retangulo {
+  width: 50px;
+  height: 5px;
+  background-color: #1a1a1a;
+}
+.resultados{
+  width: 100px;
+  height: 50px;
+  text-align: left;
+}
+.retangulo1 {
+  width: 650px;
+  height: 5px;
+  background-color: #1a1a1a;
+}
+.retangulo2 {
+  width: 650px;
+  height: 1px;
+  background-color: #1a1a1a;
+}
